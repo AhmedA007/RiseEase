@@ -127,10 +127,10 @@ img {
 
 
 * {box-sizing:border-box}
-
+/*reference: https://www.w3schools.com/howto/howto_js_slideshow.asp */
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 250px;
   position: relative;
   margin: auto;
 }
